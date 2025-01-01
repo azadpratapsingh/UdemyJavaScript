@@ -7,8 +7,7 @@ const jonas=[
     'Jonas',
     'Singh',
     2037-2045,
-    ['Azad','Pratap','Singh'],
-    true
+    ['Azad','Pratap','Singh']
 ]
 const types=[]
 for(let y=0;y<jonas.length;y++){
@@ -17,3 +16,4 @@ for(let y=0;y<jonas.length;y++){
 }
 
 console.log(types)
+
